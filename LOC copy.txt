@@ -1,0 +1,18 @@
+Hello!
+
+When measuring our lines of code, here are a few things we would like for you
+to keep in mind:
+
+1. We had implemented an algorithm for player2, aka the computer, but even upon
+revising it and simplifying it, it was not able to execute in time. So, our 
+computer player just uses a simpler algorithm instead of the more complicated
+one we implemented. However, coming up with and implementing the algorithm is,
+in our opinion, quite good effort.
+
+2. We had also come across problems with using functions and data types across
+modules, e.g. unbound record fields, and the answer we got was that sometimes
+OCaml just does that and it isn't particularly good at inferring the type of
+a record from a different module. So, we had implemented seemingly trivial
+'getter' functions that help us counter that.
+
+Thank you for your hard work!
